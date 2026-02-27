@@ -1,0 +1,1 @@
+console.log("Cloud Native App Started");
